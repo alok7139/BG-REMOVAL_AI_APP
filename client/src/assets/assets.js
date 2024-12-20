@@ -16,6 +16,7 @@ import profile_img_2 from './profile_img_2.png'
 import credit_icon from './credit_icon.png'
 import ashish from './ashish.jpg'
 import eeshan from './eeshan.jpg'
+import removal_img1 from './removal_img1.png'
 
 
 export const assets = {
@@ -32,7 +33,8 @@ export const assets = {
     google_plus_icon,
     twitter_icon,
     upload_btn_icon,
-    credit_icon
+    credit_icon,
+    removal_img1
 }
 
 export const testimonialsData = [
